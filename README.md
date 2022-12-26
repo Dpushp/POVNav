@@ -59,7 +59,7 @@ Run Dynamic Recongigure to change the parameters.
 ```
 rosrun rqt_reconfigure rqt_reconfigure
 ```
-![Dynamic Reconfigure Window](assets/rqt_params.jpg)
+![Dynamic Reconfigure Window](assets/rqt_params.png)
 
 ### Parameters Decription for  `POVNav`
 
