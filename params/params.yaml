@@ -1,0 +1,11 @@
+# select the frame for publishing the images
+frame_id: odom
+
+# subscribers info
+goal_from_rviz_topic: "/move_base_simple/goal"
+odom_topic: "/jackal_velocity_controller/odom"
+navigability_map_topic: "/ground_segmentation"
+rgb_image_topic: "/realsense/color/image_raw"
+
+# publishers info
+pov_plan_image: "/optic_path"

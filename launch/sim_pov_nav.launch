@@ -1,0 +1,7 @@
+<launch>
+  <!-- Run the costmap node -->
+  <node name="sim_pov_nav" pkg="pov_nav" type="sim_pov_nav" output="screen" >
+    <param name="publish_frequency" type="double" value="10.0" />
+    <rosparam file="$(find pov_nav)/params/params.yaml" command="load" />
+  </node>        
+</launch>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pov_nav</name>
+  <version>2.2.8</version>
+  <description>POVNav: A Pareto-Optimal Mapless Visual Navigator - is an image based local planner</description>
+  <maintainer email="dpushp@iu.edu">Durgakant Pushp</maintainer>
+  <maintainer email="dpushp@iu.edu">Durgakant Pushp</maintainer>
+  <license>Apache 2.0</license>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>image_transport</depend>
+  <depend>cv_bridge</depend>
+  <depend>opencv2</depend>
+  <depend>nav_msgs</depend>
+  <depend>nodelet</depend>  
+  <depend>genmsg</depend>
+  <depend>roscpp</depend>
+  <depend>rospy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>message_runtime</depend>
+  <depend>tf</depend>
+  <depend>dynamic_reconfigure</depend>
+  <depend>diagnostic_updater</depend>
+  <depend>librealsense2</depend>
+  <export>
+    <nodelet plugin="${prefix}/nodelet_plugins.xml" />
+  </export>
+</package>
