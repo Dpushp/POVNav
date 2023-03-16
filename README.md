@@ -16,7 +16,7 @@ Use the following instruction to setup Jackal simulator: `sudo apt-get install r
 | ~odom_topic     | name of topic that provides the robot's state.                          | "/odom"            
 | ~binary_segmented_image               | name of the topic that provides the binary segmeted image based on the defined navigability.                    |              "/ground_segmentation"            |
 
-- It publishes linear and angular velocities on the "`/cmd_vel`" topic.
+- It publishes linear and angular velocities to the "`/cmd_vel`" topic.
 
 # Setup
 ## Install and run the dependencies
