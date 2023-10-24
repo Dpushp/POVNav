@@ -1,12 +1,3 @@
-## Research Paper
-
-- **Title:** [POVNav: A Pareto-Optimal Mapless Visual Navigator](https://arxiv.org/abs/2310.14065)
-- **Authors:** Durgakant Pushp, Zheng Chen, Chaomin Luo, Jason M. Gregory, Lantao Liu
-- **Published in:** arXiv
-- **Year:** 2023
-- **Category:** [Robotics (cs.RO)](https://arxiv.org/)
-
-
 # POVNav: A Pareto-Optimal Mapless Visual Navigator
 
 POVNav is a planning and control framework that uses a novel image-based local representation of the environment using existing image segmentation methods, to navigate a robot to the specified goal point or direction using only a monocular camera without relying on a map. Apart from the collision-free motion, it also shows selective navigation behavior (such as ``Do not walk on the grass!'') which is not possible with the occupancy grid representation. 
