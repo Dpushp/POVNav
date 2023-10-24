@@ -9,8 +9,6 @@ The navigation task is formulated as a visual servoing problem where the robot i
 
 ### Cite as:
 ```
-
-```bibtex
 @article{pushp2023povnav,
   title = {POVNav: A Pareto-Optimal Mapless Visual Navigator},
   author = {Durgakant Pushp and Zheng Chen and Chaomin Luo and Jason M. Gregory and Lantao Liu},
