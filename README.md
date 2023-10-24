@@ -7,7 +7,8 @@ The navigation task is formulated as a visual servoing problem where the robot i
 
 ## This paper has been accepted for publication in ISER 2023.
 
-### Cite as :
+### Cite as:
+```bibtex
 @article{pushp2023povnav,
   title = {POVNav: A Pareto-Optimal Mapless Visual Navigator},
   author = {Durgakant Pushp and Zheng Chen and Chaomin Luo and Jason M. Gregory and Lantao Liu},
@@ -17,7 +18,7 @@ The navigation task is formulated as a visual servoing problem where the robot i
   archivePrefix = {arXiv},
   primaryClass = {cs.RO},
 }
-
+```
 ## Requirements
 - Any robot simulator that provides the control of it's linear and angular velocities (`v, w`), e.g. Jackal, Husky, Turtlebot e.t.c. 
 Use the following instruction to setup Jackal simulator: `sudo apt-get install ros-<distro>-jackal-simulator ros-<distro>-jackal-desktop ros-<distro>-jackal-navigation`.
