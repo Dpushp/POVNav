@@ -5,7 +5,8 @@ The navigation task is formulated as a visual servoing problem where the robot i
 
 ![Dynamic Reconfigure Window](assets/POVNav_full.png)
 
-## This paper has been accepted for publication in ISER 2023. - **Paper Link:** [https://arxiv.org/abs/2310.14065](https://arxiv.org/abs/2310.14065)
+## This paper has been accepted for publication in ISER 2023. 
+- **Paper Link:** [https://arxiv.org/abs/2310.14065](https://arxiv.org/abs/2310.14065)
 
 ### Cite as:
 ```
