@@ -18,7 +18,8 @@ The navigation task is formulated as a visual servoing problem where the robot i
   eprint = {2310.14065},
   archivePrefix = {arXiv},
   primaryClass = {cs.RO},
-}
+}```
+
 
 ## Requirements
 - Any robot simulator that provides the control of it's linear and angular velocities (`v, w`), e.g. Jackal, Husky, Turtlebot e.t.c. 
