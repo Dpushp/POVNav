@@ -8,6 +8,7 @@ The navigation task is formulated as a visual servoing problem where the robot i
 ## This paper has been accepted for publication in ISER 2023.
 
 ### Cite as:
+```
 ```bibtex
 @article{pushp2023povnav,
   title = {POVNav: A Pareto-Optimal Mapless Visual Navigator},
@@ -18,8 +19,7 @@ The navigation task is formulated as a visual servoing problem where the robot i
   archivePrefix = {arXiv},
   primaryClass = {cs.RO},
 }
-
-### Add
+```
 
 ## Requirements
 - Any robot simulator that provides the control of it's linear and angular velocities (`v, w`), e.g. Jackal, Husky, Turtlebot e.t.c. 
